@@ -1,0 +1,24 @@
+{
+  "name": "ramdom-int-number",
+  "version": "1.0.0",
+  "description": "ramdom int number",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dacerb/ramdom-int-number.git"
+  },
+  "keywords": [],
+  "author": "David Acerbo <dda@nodev.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dacerb/ramdom-int-number/issues"
+  },
+  "homepage": "https://github.com/dacerb/ramdom-int-number#readme",
+  "bin": {
+    "ramdom-int-number": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
